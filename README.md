@@ -66,3 +66,8 @@ $ pwd
 /path/to/repo/irj-types/evaluation/tti
 $ /path/to/trec_eval -c -m ndcg_cut.1,5 data/qrels/qrels-tti-dbpedia.txt runs-table_7/<TTI_model>.txt
 ```
+
+
+## Entity-to-type assignments
+
+The entity-to-type assignment files used in `code/type_aware_ranking.py` are obtained as described in Section 4.2 of the paper.  This is, the "raw" entity-to-type assignments provided by the datasets of the studied knowledge bases (Sect. 4.2.2) are processed with respect to the type taxonomies (Sect. 4.2.1) to enforce the definitions of the different hierarchical representations (Sect. 4.1).
