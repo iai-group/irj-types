@@ -74,6 +74,23 @@ $ pwd
 $ /path/to/trec_eval -c -m ndcg_cut.1,5 data/qrels/qrels-tti-dbpedia.txt runs-table_10/<TTI_model>.txt
 ```
 
+
+## Citation
+
+If you use the resources presented in this repository, please cite:
+
+```
+@inproceedings{Garigliotti:2018:IET,
+ author =    {Dar\'{i}o Garigliotti and Faegheh Hasibi and Krisztian Balog},
+ title =     {Identifying and Exploiting Target Entity Type Information for Ad Hoc Entity Retrieval},
+ booktitle = {Information Retrieval Journal},
+ year =      {2018},
+ doi =       {10.1007/s10791-018-9346-x},
+ publisher = {Springer}
+}
+```
+
+
 ## Contact
 
 Should you have any questions, please contact Darío Garigliotti at dario.garigliotti[AT]uis.no (with [AT] replaced by @).
