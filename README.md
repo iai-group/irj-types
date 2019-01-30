@@ -2,7 +2,7 @@
 
 This repository provides resources developed within the following article:
 
-> D. Garigliotti, F. Hasibi, and K. Balog. Identifying and Exploiting Target Entity Type Information for Ad Hoc Entity Retrieval. In: Information Retrieval Journal, (), 1-39. [DOI: 10.1007/s10791-018-9346-x](http://link.springer.com/article/10.1007/s10791-018-9346-x)
+> D. Garigliotti, F. Hasibi, and K. Balog. **Identifying and Exploiting Target Entity Type Information for Ad Hoc Entity Retrieval.** In: Information Retrieval Journal, (), 1-39. [DOI: 10.1007/s10791-018-9346-x](http://link.springer.com/article/10.1007/s10791-018-9346-x)
 
 
 ### Abstract
