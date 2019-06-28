@@ -2,7 +2,7 @@
 
 This repository provides resources developed within the following article:
 
-> D. Garigliotti, F. Hasibi, and K. Balog. Identifying and Exploiting Target Entity Type Information for Ad Hoc Entity Retrieval.
+> D. Garigliotti, F. Hasibi, and K. Balog. **Identifying and Exploiting Target Entity Type Information for Ad Hoc Entity Retrieval.** In: Information Retrieval Journal, (), 1-39. [DOI: 10.1007/s10791-018-9346-x](http://link.springer.com/article/10.1007/s10791-018-9346-x)
 
 
 ### Abstract
@@ -73,6 +73,23 @@ $ pwd
 /path/to/repo/irj-types/evaluation/tti
 $ /path/to/trec_eval -c -m ndcg_cut.1,5 data/qrels/qrels-tti-dbpedia.txt runs-table_10/<TTI_model>.txt
 ```
+
+
+## Citation
+
+If you use the resources presented in this repository, please cite:
+
+```
+@inproceedings{Garigliotti:2018:IET,
+ author =    {Dar\'{i}o Garigliotti and Faegheh Hasibi and Krisztian Balog},
+ title =     {Identifying and Exploiting Target Entity Type Information for Ad Hoc Entity Retrieval},
+ booktitle = {Information Retrieval Journal},
+ year =      {2018},
+ doi =       {10.1007/s10791-018-9346-x},
+ publisher = {Springer}
+}
+```
+
 
 ## Contact
 
