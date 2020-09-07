@@ -80,13 +80,17 @@ $ /path/to/trec_eval -c -m ndcg_cut.1,5 data/qrels/qrels-tti-dbpedia.txt runs-ta
 If you use the resources presented in this repository, please cite:
 
 ```
-@inproceedings{Garigliotti:2018:IET,
- author =    {Dar\'{i}o Garigliotti and Faegheh Hasibi and Krisztian Balog},
- title =     {Identifying and Exploiting Target Entity Type Information for Ad Hoc Entity Retrieval},
- booktitle = {Information Retrieval Journal},
- year =      {2018},
- doi =       {10.1007/s10791-018-9346-x},
- publisher = {Springer}
+@inproceedings{Garigliotti:2019:IET,
+  author = {Dar\'{i}o Garigliotti and Faegheh Hasibi and Krisztian Balog},
+  title = {{Identifying and Exploiting Target Entity Type Information for Ad Hoc Entity Retrieval}},
+  journal = {Information Retrieval Journal},
+  year = {2019},
+  month = {August},
+  volume = {22},
+  number = {3},
+  pages = {285--323},
+  doi = {10.1007/s10791-018-9346-x},
+  publisher = {Springer}
 }
 ```
 
